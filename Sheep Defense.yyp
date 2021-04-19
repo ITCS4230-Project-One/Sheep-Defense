@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_displayBullets","path":"sprites/spr_displayBullets/spr_displayBullets.yy",},"order":7,},
     {"id":{"name":"obj_ammoCount","path":"objects/obj_ammoCount/obj_ammoCount.yy",},"order":5,},
+    {"id":{"name":"obj_sheep_spawner","path":"objects/obj_sheep_spawner/obj_sheep_spawner.yy",},"order":6,},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":4,},
     {"id":{"name":"spr_firing","path":"sprites/spr_firing/spr_firing.yy",},"order":4,},
     {"id":{"name":"spr_farmer","path":"sprites/spr_farmer/spr_farmer.yy",},"order":0,},
@@ -57,7 +58,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.1.542",
   },
   "resourceVersion": "1.4",
   "name": "Sheep Defense",
