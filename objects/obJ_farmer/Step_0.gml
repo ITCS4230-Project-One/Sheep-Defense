@@ -43,3 +43,12 @@ if(global.reload){
 }
 
 bullet_cooldown += -1;
+
+
+if (global.killed >= 2){
+	 global.win = true
+}
+
+if (global.wolfHits <= 0){
+	global.game_over = true	
+}

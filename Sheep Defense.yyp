@@ -10,6 +10,7 @@
     {"id":{"name":"spr_sheep","path":"sprites/spr_sheep/spr_sheep.yy",},"order":4,},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":1,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":7,},
+    {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"order":9,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":2,},
     {"id":{"name":"spr_ammo","path":"sprites/spr_ammo/spr_ammo.yy",},"order":5,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":7,},
@@ -61,7 +62,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.1.542",
   },
   "resourceVersion": "1.4",
   "name": "Sheep Defense",
