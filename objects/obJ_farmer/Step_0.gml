@@ -45,7 +45,7 @@ if(global.reload){
 bullet_cooldown += -1;
 
 
-if (global.killed >= 2){
+if (global.killed >= 10){
 	 global.win = true
 }
 

@@ -17,3 +17,9 @@ if(instance_exists(obJ_farmer)){
 		
 	}
 }
+
+draw_text(2, 100, string(global.killed) + " / 10 wolves")
+
+for (var i = 0; i < global.wolfHits; i++){
+	draw_sprite(spr_hits, 0, 80 * i, 40)
+}

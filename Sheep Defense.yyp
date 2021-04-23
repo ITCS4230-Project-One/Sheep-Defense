@@ -1,7 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_displayBullets","path":"sprites/spr_displayBullets/spr_displayBullets.yy",},"order":6,},
-    {"id":{"name":"obj_ammoCount","path":"objects/obj_ammoCount/obj_ammoCount.yy",},"order":5,},
+    {"id":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},"order":5,},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":4,},
     {"id":{"name":"spr_wolf","path":"sprites/spr_wolf/spr_wolf.yy",},"order":8,},
     {"id":{"name":"spr_firing","path":"sprites/spr_firing/spr_firing.yy",},"order":3,},
@@ -14,6 +14,7 @@
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":2,},
     {"id":{"name":"spr_ammo","path":"sprites/spr_ammo/spr_ammo.yy",},"order":5,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":7,},
+    {"id":{"name":"spr_hits","path":"sprites/spr_hits/spr_hits.yy",},"order":9,},
     {"id":{"name":"obj_sheep","path":"objects/obj_sheep/obj_sheep.yy",},"order":2,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":1,},
     {"id":{"name":"obJ_farmer","path":"objects/obJ_farmer/obJ_farmer.yy",},"order":0,},
@@ -62,7 +63,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.2.560",
   },
   "resourceVersion": "1.4",
   "name": "Sheep Defense",
