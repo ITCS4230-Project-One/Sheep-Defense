@@ -14,6 +14,7 @@
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":2,},
     {"id":{"name":"spr_ammo","path":"sprites/spr_ammo/spr_ammo.yy",},"order":5,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":7,},
+    {"id":{"name":"obj_enemyspawner","path":"objects/obj_enemyspawner/obj_enemyspawner.yy",},"order":10,},
     {"id":{"name":"spr_hits","path":"sprites/spr_hits/spr_hits.yy",},"order":9,},
     {"id":{"name":"obj_sheep","path":"objects/obj_sheep/obj_sheep.yy",},"order":2,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":1,},
