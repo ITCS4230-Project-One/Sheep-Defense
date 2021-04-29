@@ -2,7 +2,7 @@ draw_set_font(font)
 
 //keep track of ammo
 draw_sprite(spr_displayBullets, 0, 0, 665)
-draw_text(80, 690, string(global.ammo) + " / " + string(global.stored_ammo))
+draw_text(80, 702, string(global.ammo) + " / " + string(global.stored_ammo))
 
 //draw_sprite(spr_ammo, 0, 150, 700)
 //draw_text(225, 690, string(global.stored_ammo))
@@ -18,8 +18,17 @@ if(instance_exists(obJ_farmer)){
 	}
 }
 
-draw_text(2, 100, string(global.killed) + " / 10 wolves")
+//wave counter
+draw_text(2, 100, "Wave: " + string(global.killed) + " / 10 wolves")
 
+//sheep counter
+if(instance_exists(obj_sheep)){
+	draw_text(2, 150, "Sheep remaining: " + string(instance_number(obj_sheep)))
+	//score counter
+	draw_text(2, 200, "Score: " + string(score))
+}
+
+//life
 for (var i = 0; i < global.wolfHits; i++){
 	draw_sprite(spr_hits, 0, 80 * i, 40)
 }
