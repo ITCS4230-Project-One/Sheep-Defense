@@ -1,3 +1,3 @@
-if !instance_exists(obJ_farmer){
+if !instance_exists(obj_farmer){
  instance_destroy(self)
 }

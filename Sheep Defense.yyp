@@ -18,7 +18,7 @@
     {"id":{"name":"spr_hits","path":"sprites/spr_hits/spr_hits.yy",},"order":9,},
     {"id":{"name":"obj_sheep","path":"objects/obj_sheep/obj_sheep.yy",},"order":2,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":1,},
-    {"id":{"name":"obJ_farmer","path":"objects/obJ_farmer/obJ_farmer.yy",},"order":0,},
+    {"id":{"name":"obj_farmer","path":"objects/obj_farmer/obj_farmer.yy",},"order":0,},
     {"id":{"name":"obj_ammo","path":"objects/obj_ammo/obj_ammo.yy",},"order":3,},
     {"id":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"order":8,},
     {"id":{"name":"font","path":"fonts/font/font.yy",},"order":0,},

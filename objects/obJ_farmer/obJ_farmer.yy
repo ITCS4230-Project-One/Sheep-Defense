@@ -39,7 +39,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obJ_farmer",
+  "name": "obj_farmer",
   "tags": [],
   "resourceType": "GMObject",
 }
