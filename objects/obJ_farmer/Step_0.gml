@@ -44,10 +44,18 @@ if(global.reload){
 
 bullet_cooldown += -1;
 
-
-if (global.killed >= 10){
-	 global.win = true
+if(room == Room1){
+	if (global.killed >= 30){
+		global.firstlevel = true
+	}
 }
+
+if(room == Room2){
+	if (global.killed >= 50){
+		global.win = true
+	}
+}
+
 
 if (global.wolfHits <= 0){
 	global.game_over = true	

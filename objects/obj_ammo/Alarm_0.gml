@@ -5,7 +5,7 @@ else{
 	image_alpha = 1;
 	}
 	
-if (timer == 1000){
+if (timer == 500){
 	instance_destroy()
 	}
 	

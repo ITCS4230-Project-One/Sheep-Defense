@@ -1,5 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.game_over = false
-
-global.win = false
+global.killed = 0
+global.wolfHits = 3

@@ -1,2 +1,2 @@
-alarm[0] = 200
+alarm[0] = 250
 timer = 0

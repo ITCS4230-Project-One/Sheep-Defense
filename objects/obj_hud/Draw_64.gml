@@ -18,15 +18,22 @@ if(instance_exists(obj_farmer)){
 	}
 }
 
-//wave counter
-draw_text(2, 100, "Wave: " + string(global.killed) + " / 10 wolves")
+//Enemy Counters
+if (room == Room1){
+	draw_text(2, 100, "Level 1: " + string(global.killed) + " / 30 enemies")
+}
+
+if (room == Room2){
+	draw_text(2, 100, "Level 2: " + string(global.killed) + " / 50 enemies")
+}
 
 //sheep counter
 if(instance_exists(obj_sheep)){
 	draw_text(2, 150, "Sheep remaining: " + string(instance_number(obj_sheep)))
-	//score counter
-	draw_text(2, 200, "Score: " + string(score))
 }
+
+//score counter
+draw_text(2, 200, "Score: " + string(score))
 
 //life
 for (var i = 0; i < global.wolfHits; i++){
