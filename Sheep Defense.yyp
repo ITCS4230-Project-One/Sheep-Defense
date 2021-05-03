@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},"order":14,},
     {"id":{"name":"spr_displayBullets","path":"sprites/spr_displayBullets/spr_displayBullets.yy",},"order":6,},
     {"id":{"name":"obj_titleEnter","path":"objects/obj_titleEnter/obj_titleEnter.yy",},"order":14,},
     {"id":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},"order":5,},

@@ -50,6 +50,10 @@ if instance_exists(obj_farmer){
 	}
 }
 
+//if(speed > 0) {
+//	play	
+//}
+
 if !instance_exists(obj_farmer){
  instance_destroy(self)
 }

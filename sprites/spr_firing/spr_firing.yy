@@ -1,5 +1,5 @@
 {
-  "bboxMode": 0,
+  "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
   "origin": 9,
@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 90,
-  "bbox_top": 2,
-  "bbox_bottom": 97,
+  "bbox_left": 10,
+  "bbox_right": 87,
+  "bbox_top": 11,
+  "bbox_bottom": 46,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -67,7 +67,6 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"45bd5b00-9cef-4d34-b0a9-d9ca72ecfcee","tags":[],"resourceType":"GMImageLayer",},
   ],
-  "nineSlice": null,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
