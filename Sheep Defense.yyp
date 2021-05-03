@@ -6,6 +6,7 @@
     {"id":{"name":"spr_pressEnter","path":"sprites/spr_pressEnter/spr_pressEnter.yy",},"order":13,},
     {"id":{"name":"obj_enemy_3","path":"objects/obj_enemy_3/obj_enemy_3.yy",},"order":12,},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":4,},
+    {"id":{"name":"sound_empty_gun_click","path":"sounds/sound_empty_gun_click/sound_empty_gun_click.yy",},"order":16,},
     {"id":{"name":"spr_wolf","path":"sprites/spr_wolf/spr_wolf.yy",},"order":8,},
     {"id":{"name":"spr_firing","path":"sprites/spr_firing/spr_firing.yy",},"order":3,},
     {"id":{"name":"spr_enemy_2_temp","path":"sprites/spr_enemy_2_temp/spr_enemy_2_temp.yy",},"order":10,},

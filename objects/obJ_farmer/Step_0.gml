@@ -16,6 +16,7 @@ if(global.ammo <= 0 and global.stored_ammo > 0){
 	}
 }
 
+
 //hold down left mouse button to fire
 if (mouse_check_button(mb_left))
 {
@@ -30,7 +31,16 @@ if (mouse_check_button(mb_left))
 			alarm[0] = 30
 			bullet_cooldown = 15;
 		}
+		
 	}
+}
+
+//Play reload noise only once
+if(mouse_check_button_pressed(mb_left)) { 
+	if(global.ammo == 0) {
+			audio_play_sound(sound_empty_gun_click, 3, false)
+			alarm[0] = 30
+		}
 }
 
 //time it takes to reload
