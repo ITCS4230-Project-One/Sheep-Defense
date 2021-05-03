@@ -35,7 +35,7 @@
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":12,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":1,},
     {"id":{"name":"obj_farmer","path":"objects/obj_farmer/obj_farmer.yy",},"order":0,},
-    {"id":{"name":"obj_enemy_2","path":"objects/obj_enemy_2/obj_enemy_2.yy",},"order":11,},
+    {"id":{"name":"obj_bear","path":"objects/obj_bear/obj_bear.yy",},"order":11,},
     {"id":{"name":"obj_ammo","path":"objects/obj_ammo/obj_ammo.yy",},"order":3,},
     {"id":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"order":8,},
     {"id":{"name":"font","path":"fonts/font/font.yy",},"order":0,},
@@ -62,7 +62,7 @@
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets.yy","order":2,"resourceVersion":"1.0","name":"Tile Sets","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sounds.yy","order":3,"resourceVersion":"1.0","name":"Sounds","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sequences/Sounds.yy","order":0,"resourceVersion":"1.0","name":"Sounds","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Paths.yy","order":4,"resourceVersion":"1.0","name":"Paths","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts.yy","order":5,"resourceVersion":"1.0","name":"Scripts","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Shaders.yy","order":6,"resourceVersion":"1.0","name":"Shaders","tags":[],"resourceType":"GMFolder",},

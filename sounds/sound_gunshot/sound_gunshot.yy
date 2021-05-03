@@ -14,7 +14,7 @@
   "duration": 2.021,
   "parent": {
     "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "path": "folders/Sequences/Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "sound_gunshot",

@@ -71,7 +71,7 @@ if(global.reload){
 bullet_cooldown += -1;
 
 if(room == Room1){
-	if (global.killed >= 30){
+	if (global.killed >= 25){
 		global.firstlevel = true
 	}
 }

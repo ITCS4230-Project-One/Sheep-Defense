@@ -4,7 +4,7 @@
 if instance_exists(obj_farmer){
 	if mp_grid_path(global.grid, path, x, y, obj_farmer.x, obj_farmer.y, 1)
     {
-      path_start(path, 3, 3, 0);
+      path_start(path, 2.75, 3, 0);
 	  image_angle = direction
     }
 	
