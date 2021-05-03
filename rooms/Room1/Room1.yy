@@ -67,7 +67,6 @@
             {"propertyId":{"name":"objectType","path":"objects/obj_spawner/obj_spawner.yy",},"objectId":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"value":"obj_enemy_3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"spawnInterval","path":"objects/obj_spawner/obj_spawner.yy",},"objectId":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"value":"300","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"obj_enemyspawner","path":"objects/obj_enemyspawner/obj_enemyspawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":736.0,"resourceVersion":"1.0","name":"inst_1291BD12","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_enemy_2","path":"objects/obj_enemy_2/obj_enemy_2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1152.0,"y":320.0,"resourceVersion":"1.0","name":"inst_190E6AB1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[
             {"propertyId":{"name":"objectType","path":"objects/obj_spawner/obj_spawner.yy",},"objectId":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"value":"obj_enemy_2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"spawnInterval","path":"objects/obj_spawner/obj_spawner.yy",},"objectId":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"value":"400","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
@@ -230,7 +229,6 @@
     {"name":"inst_7E812A5A","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_49153FB3","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_277EE9E1","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_190E6AB1","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_3B3ECD6A","path":"rooms/Room1/Room1.yy",},
   ],
   "inheritCreationOrder": false,
