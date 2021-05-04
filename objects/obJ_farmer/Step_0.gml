@@ -77,7 +77,7 @@ if(room == Room1){
 }
 
 if(room == Room2){
-	if (global.killed >= 50){
+	if (global.killed >= 35){
 		global.win = true
 	}
 }

@@ -13,8 +13,8 @@
   "soundFile": "sound_reload.mp3",
   "duration": 0.965,
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "sound_reload",

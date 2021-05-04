@@ -20,11 +20,11 @@ if(instance_exists(obj_farmer)){
 
 //Enemy Counters
 if (room == Room1){
-	draw_text(2, 100, "Level 1: " + string(global.killed) + " / 30 enemies")
+	draw_text(2, 100, "Level 1: " + string(global.killed) + " / 25 enemies")
 }
 
 if (room == Room2){
-	draw_text(2, 100, "Level 2: " + string(global.killed) + " / 50 enemies")
+	draw_text(2, 100, "Level 2: " + string(global.killed) + " / 35 enemies")
 }
 
 //sheep counter
