@@ -14,6 +14,7 @@
     {"id":{"name":"spr_firing","path":"sprites/spr_firing/spr_firing.yy",},"order":3,},
     {"id":{"name":"spr_enemy_2_temp","path":"sprites/spr_enemy_2_temp/spr_enemy_2_temp.yy",},"order":10,},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":13,},
+    {"id":{"name":"sound_background_suspense","path":"sounds/sound_background_suspense/sound_background_suspense.yy",},"order":3,},
     {"id":{"name":"spr_farmer","path":"sprites/spr_farmer/spr_farmer.yy",},"order":0,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"spr_sheep","path":"sprites/spr_sheep/spr_sheep.yy",},"order":4,},
@@ -83,7 +84,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.1.542",
   },
   "resourceVersion": "1.4",
   "name": "Sheep Defense",
